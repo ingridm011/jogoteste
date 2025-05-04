@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a37d9f3d317a7f44faa1dc5425e51e0b, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 6415679445898019542, guid: 95d032780ce5ddb45a6e3cc9a3c6ab54, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: "Mo\xE7a"
+    profile: {fileID: 6711590467529672262, guid: e39b68c393677b847bd0cbe46e993512, type: 3}
+    sentence:
+      portuguese: "Iae cara! A quanto tempo a gente n\xE3o se ver."
+      english: 
+      spanish: 
+  - actorName: Heroi
+    profile: {fileID: 2203037612859406267, guid: e39b68c393677b847bd0cbe46e993512, type: 3}
+    sentence:
+      portuguese: Tudo bem?
+      english: 
+      spanish: 
+  - actorName: "Mo\xE7a"
+    profile: {fileID: 6711590467529672262, guid: e39b68c393677b847bd0cbe46e993512, type: 3}
+    sentence:
+      portuguese: "Tudo e voc\xEA?"
+      english: 
+      spanish: 
+  - actorName: 
+    profile: {fileID: 2203037612859406267, guid: e39b68c393677b847bd0cbe46e993512, type: 3}
+    sentence:
+      portuguese: Estou bem, obrigada
+      english: 
+      spanish: 
