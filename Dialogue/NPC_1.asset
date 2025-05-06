@@ -20,23 +20,23 @@ MonoBehaviour:
     profile: {fileID: 6711590467529672262, guid: e39b68c393677b847bd0cbe46e993512, type: 3}
     sentence:
       portuguese: "Iae cara! A quanto tempo a gente n\xE3o se ver."
-      english: 
-      spanish: 
+      english: "Hi Bro, it\xB4s been a while that we saw each other."
+      spanish: sdfsfsdfsdfsd
   - actorName: Heroi
     profile: {fileID: 2203037612859406267, guid: e39b68c393677b847bd0cbe46e993512, type: 3}
     sentence:
       portuguese: Tudo bem?
-      english: 
-      spanish: 
+      english: How are you?
+      spanish: Que passa manito?
   - actorName: "Mo\xE7a"
     profile: {fileID: 6711590467529672262, guid: e39b68c393677b847bd0cbe46e993512, type: 3}
     sentence:
       portuguese: "Tudo e voc\xEA?"
-      english: 
-      spanish: 
-  - actorName: 
+      english: Yes and you?
+      spanish: Stoy bien e tu?
+  - actorName: Heroi
     profile: {fileID: 2203037612859406267, guid: e39b68c393677b847bd0cbe46e993512, type: 3}
     sentence:
       portuguese: Estou bem, obrigada
-      english: 
-      spanish: 
+      english: "I\xB4m fine thanks"
+      spanish: Jo estoy bien gracias
