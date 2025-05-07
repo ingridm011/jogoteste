@@ -6,9 +6,11 @@ public class NPC_Dialogue : MonoBehaviour
 {
     public float dialogueRange;
     public LayerMask playerLayer;
-
+    public bool interaction;
     public DialogueSettings dialogue;
 
+    private NPC_movement npcMovement;
+    private bool hasTalked = false;
 
     bool PlayerHit;
 

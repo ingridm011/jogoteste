@@ -20,16 +20,16 @@ public class DialogueControl : MonoBehaviour
     public Image profileSprite; //sprite do perfil
     public Text speechText; //texto da fala
     public Text actorNameText; //nome do npc
-
     [Header("Settings")]
     public float typingSpeed; //velocidade da fala
 
     //variaveis de controle
-    private bool isShowing; // se a janela está visivel
+    public bool isShowing; // se a janela está visivel
     private int index; //contar as sentenças 
     private string[] sentence;
 
     public static DialogueControl instance;
+
 
     //awake é chamado antes de todos os Start()
     private void Awake()
